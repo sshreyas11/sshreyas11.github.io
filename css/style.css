@@ -62,6 +62,11 @@ img {
     padding: 50px;
     display: block;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
 
 .bio {
   color: #ffffff;

@@ -48,7 +48,7 @@ h2 {
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #ffa500;
+  color: #edede9;
   padding: 10px 0px 10px 10px;
 }
 
@@ -128,7 +128,7 @@ a:link {
   font-weight: 500;
   letter-spacing: 0.3px;
   text-align: left;
-  color: #4a4a4a;
+  color: #edede9;
   position: relative;
   bottom: 5px;
 }
@@ -140,7 +140,7 @@ a:link {
   line-height: 1.29;
   letter-spacing: 0.1px;
   text-align: left;
-  color: #4a4a4a;
+  color: #edede9;
   padding: 10px 0px 10px 10px;
   border-top: 1px solid #4a4a4a;
 }

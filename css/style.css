@@ -7,7 +7,7 @@ html {
 body {
   margin: 0;
   font-family: 'Playfair Display', serif;
-  background-color: #432818;
+  background-color: #faf0ca;
 
 }
 
@@ -54,7 +54,9 @@ h2 {
 
 img {
   width: 100%;
-  height: auto;
+  height: 50vh;
+  object-fit: cover;
+  object-position: center top;
 }
 .wrapper {
     max-width: 1150px;

@@ -70,7 +70,7 @@ a:link {
 
 .bio {
   color: #ffffff;
-  font-size: 24px;
+  font-size: 24px;``
   font-family: 'Playfair Display', serif;
 }
 .buttonBox {
@@ -172,7 +172,12 @@ a:link {
 }
 
 
-
-footer {
-  margin-top: 44px;
+footer div {
+  height: 100%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-content: center;
+  padding: 10px 20px;
+  color: rgba(255, 255, 255, 0.5);
 }
